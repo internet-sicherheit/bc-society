@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New Line DEF
+=======
+New Line ABC
+>>>>>>> c468962c2799e40ffb0e1325c51571dd9895c176
