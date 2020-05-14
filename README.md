@@ -4,7 +4,7 @@
 * Time: Friday 03:00 - 04:00 PM
 
 ## May 15, 2020 (3pm)
-* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/static/docs/bitcoin.pdfr)
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)
 
 ## May 8, 2020 (10:00 AM)
 * [Intro to the ToIP stack](https://ieeexplore.ieee.org/document/9031548)
