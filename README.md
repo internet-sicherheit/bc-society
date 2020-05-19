@@ -4,7 +4,7 @@
 * Time: Friday 03:00 - 04:00 PM
 
 ## May 22, 2020 (3pm)
-*[The Attack of the Clones Against Proof-of-Authority](https://arxiv.org/pdf/1902.10244.pdf)
+* [The Attack of the Clones Against Proof-of-Authority](https://arxiv.org/pdf/1902.10244.pdf)
 
 ## May 15, 2020 (3pm)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/static/docs/bitcoin.pdf)
